@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# React Tooltip Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created a react tooltip project where user can perform...
+* Insert the tooltip data
+* Choose the position of the Tooltip
 
-## Available Scripts
+## Tools Used
+<img align="left" src="https://user-images.githubusercontent.com/18380165/224329335-3cdf989b-bdce-41e6-82dc-7d4c50d5f283.png" width="100" height="100">
+<img align="left" src="https://user-images.githubusercontent.com/18380165/224329345-7363d693-4f27-4a58-8c9e-086d8a3fa420.png" width="100" height="100">
+<img align="left" src="https://user-images.githubusercontent.com/18380165/224332427-426a3fbb-e25d-4deb-a832-666ae2e2e418.png" width="100" height="100">
+<img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="100" height="100">
+<img  src="https://user-images.githubusercontent.com/18380165/224329339-a5174b23-1a5c-4ae4-95c8-ead20a29d77e.png" width="100" height="100">
 
-In the project directory, you can run:
 
-### `npm start`
+### To see the project: https://ipodreactcn.netlify.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Preview Project...
+![React tooltip project](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/f98c44ab-5682-4daa-822c-4660362d30bf)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Top...
+![Screenshot (52)](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/3990dd67-6a82-4e51-a52a-f14ac2d40071)
 
-### `npm test`
+## Right...
+![Screenshot (50)](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/2b69ca99-f13a-4ca2-bf07-6f12d6077dbb)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Bottom...
+![Screenshot (48)](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/a8baebc6-1116-444c-ad97-30cc1f413c3f)
 
-### `npm run build`
+## Left...
+![Screenshot (49)](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/e1551ec2-2a00-43e8-a4fc-daace7a6c0ec)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## To run the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  npm install<br>
+  npm start
+ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact Me
+* Email: shubhamdhiman00.sd@gmail.com
+* Instagram: @shubham_dhiman3.089
+* Twitter: https://twitter.com/shubhamdhiman78
+* Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
