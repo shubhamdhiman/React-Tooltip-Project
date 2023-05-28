@@ -12,7 +12,7 @@ Created a react tooltip project where user can perform...
 <img  src="https://user-images.githubusercontent.com/18380165/224329339-a5174b23-1a5c-4ae4-95c8-ead20a29d77e.png" width="100" height="100">
 
 
-### To see the project: https://ipodreactcn.netlify.app
+### To see the project: https://react-tooltip-cn.netlify.app/
 
 ## Preview Project...
 ![React tooltip project](https://github.com/shubhamdhiman/React-Tooltip-skill-test-1/assets/18380165/f98c44ab-5682-4daa-822c-4660362d30bf)
